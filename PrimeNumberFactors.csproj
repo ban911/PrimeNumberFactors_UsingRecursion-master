@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>PrimeFactors</Title>
+    <Authors>Ahmed Rayyan$()</Authors>
+    <Company>$(Authors)</Company>
+    <Description>Use To Get The Prime Facotrs Of A number</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageId>Bav.$(AssemblyName)</PackageId>
+  </PropertyGroup>
+
+</Project>
